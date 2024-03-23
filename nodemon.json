@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "momentomap",
+        "DB_PASSWORD": "momentomap2024",
+        "DB_NAME": "MomentoMapDatabase",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
